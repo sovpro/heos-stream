@@ -109,3 +109,11 @@ event_stream.on ('data', event_data => {
 })
 ```
 
+## Links
+
+* [HEOS by Denon](https://usa.denon.com/us/heos)
+* [HEOS CLI Protocol Specification](https://denon-uk.custhelp.com/app/answers/detail/a_id/5744/~/heos-control-protocol-\(cli\))
+
+# Notice
+
+This unsponsored software is provided, subject to a MIT license, unoffocially and independently of Sound United, LLC, its affiliates, subsidiaries and brands (such as HEOS, Denon and any such not listed here).
