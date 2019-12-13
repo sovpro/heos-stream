@@ -47,7 +47,7 @@ Reading provides data objects that are one of:
 
 #### HeosData
 
-All data provided by HeosStream is a HeosData instance consisting of a message and command property. A HeosResult or HeosEvent is provided if the data is determined to a be the result of a command or an event.
+All data provided by HeosStream is a HeosData instance consisting of a message and command property. A HeosResult or HeosEvent is provided if the data is determined to a be a result or an event.
 
 Properties:
  * `message` : A key value object
@@ -116,4 +116,4 @@ event_stream.on ('data', event_data => {
 
 # Notice
 
-This unsponsored software is provided, subject to a MIT license, unoffocially and independently of Sound United, LLC, its affiliates, subsidiaries and brands (such as HEOS, Denon and any such not listed here).
+This unsponsored software is provided, subject to a MIT license, unofficially and independently of Sound United, LLC, its affiliates, subsidiaries and brands (such as HEOS, Denon and any such not listed here).
