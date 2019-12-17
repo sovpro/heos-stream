@@ -9,7 +9,7 @@ Node.js streams for HEOS protocol communication over a socket
 Construct an instance with a Socket obtainable via `net.createConnection()` or `new net.Socket()`
 
 ```js
-const {HeosStream} = require ('heos-stream')
+const {HeosStream} = require ('@sovpro/heos-stream')
 const heos_stream = new HeosStream (socket)
 ```
 ### Writing
