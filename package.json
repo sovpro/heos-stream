@@ -1,6 +1,6 @@
 {
   "name": "@sovpro/heos-stream",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.js streams for HEOS protocol communication over a socket",
   "main": "heos-stream.js",
   "scripts": {
@@ -18,6 +18,6 @@
   "author": "sovpro <its.so@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "@sovpro/delimited-stream": "^1.0.0"
+    "@sovpro/delimited-stream": "^1.1.0"
   }
 }
